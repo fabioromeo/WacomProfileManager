@@ -1,4 +1,4 @@
 # WacomProfileManager
-Coding study to develop a Wacom panel for Ubuntu using xsetwacom and python. 
+Code study to develop a Wacom panel for Ubuntu using xsetwacom. It's currently a bunch of bash scripts to automate the Intuos Pro settings. I intend it to have a GUI in Python someday and refine the code. 
 
-There's nothing much to see yet besides some basic bash script files to automate the settings.
+To use it as it is, set your Gnome shortcut key to open setwacommodes.sh to Super+z. You may need to change the identifier too, it was currently tested with the Intuos Pro (PTH-660).
